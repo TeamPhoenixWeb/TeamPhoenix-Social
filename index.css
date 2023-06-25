@@ -11,14 +11,21 @@
   .head {
     padding: 80px;
     text-align: center;
-    background: #1abc9c;
-    color: white;
+    background: white;
+    color: lightskyblue;
   }
   
   /* Increase the font size of the h1 element */
   .header h1 {
     font-size: 40px;
   }
+
+  /* image from titleimg which is above TeamPhoenix freestyle professinal skate team */
+  .head img {
+    width: 20%;
+    
+  }
+
   
   /* Style the top navigation bar */
   .navbar {
